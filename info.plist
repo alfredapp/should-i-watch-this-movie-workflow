@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.alfredapp.shouldiwatchthismovie</string>
+	<string>com.alfredapp.andrew.shouldiwatchthismovie</string>
 	<key>connections</key>
 	<dict>
 		<key>F8C5D133-7C4D-44F2-845B-FAE1568A09E7</key>
@@ -197,8 +197,8 @@ YouTube opens in Chrome to demonstrate that Default Web Searches and Open URL ob
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2022.1</string>
+	<string>2022.2</string>
 	<key>webaddress</key>
-	<string>https://www.alfredapp.com</string>
+	<string>https://github.com/alfredapp/should-i-watch-this-movie-workflow/</string>
 </dict>
 </plist>
