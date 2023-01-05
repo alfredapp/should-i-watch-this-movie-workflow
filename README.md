@@ -4,7 +4,7 @@ Open a trailer in YouTube, details in IMDB and ratings in Rotten Tomatoes.
 
 ![Should I watch this movie?](movie-workflow.png)
 
-<a href='https://github.com/alfredapp/should-i-watch-this-movie/releases/latest/download/should.i.watch.this.movie.alfredworkflow'>⤓ Download Workflow</a>
+[⤓ Install From the Alfred Gallery](https://alfred.app/workflows/alfredapp/should-i-watch-this-movie/)
 
 ## Usage
 
